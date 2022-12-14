@@ -54,3 +54,12 @@ $(document).ready(function () {
     }
   }
 });
+// Need to add a onclick to save 
+
+$(".btn").on("click", function () {
+    let task = $(this).siblings(".description").val();
+    console.log(task);
+    let time = $(this).parent().attr("id");
+    localStorage.setItem(time, task);
+  });
+  
