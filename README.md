@@ -13,6 +13,10 @@ https://1gerardo3.github.io/Workday-Planner/
 
 ## Usage:
 this page is intented to help you keep a daliy schedule of todos.
+gray is past 
+red is present
+green is future 
+all saved tasked will be saved until deleted 
 
 ## Support:
 for helpplease contact Gerardp Alvarez @ 1gerardo3@gmail.com
